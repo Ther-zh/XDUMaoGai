@@ -177,6 +177,13 @@
   function submitSingle(key) {
     session.answered = true;
     const q = session.items[session.index];
+    if (!String(q.answer || "").trim()) {
+      showFeedback(q, null, key);
+      markOptions(q, null, new Set([key]));
+      quizActions.innerHTML = `<button type="button" class="btn-primary" id="nextBtn">${session.index + 1 >= session.items.length ? "查看结果" : "下一题"}</button>`;
+      document.getElementById("nextBtn").addEventListener("click", nextQuestion);
+      return;
+    }
     const ok = normalizeAnswer(key) === normalizeAnswer(q.answer);
     if (ok) session.correct++;
     else session.wrongIds.push(q.id);
@@ -191,6 +198,13 @@
     session.answered = true;
     const q = session.items[session.index];
     const userAns = [...selected].sort().join("");
+    if (!String(q.answer || "").trim()) {
+      showFeedback(q, null, userAns);
+      markOptions(q, null, selected);
+      quizActions.innerHTML = `<button type="button" class="btn-primary" id="nextBtn">${session.index + 1 >= session.items.length ? "查看结果" : "下一题"}</button>`;
+      document.getElementById("nextBtn").addEventListener("click", nextQuestion);
+      return;
+    }
     const ok = normalizeAnswer(userAns) === normalizeAnswer(q.answer);
     if (ok) session.correct++;
     else session.wrongIds.push(q.id);
@@ -203,16 +217,24 @@
   function markOptions(q, ok, userKeys) {
     quizCard.querySelectorAll(".option-btn").forEach((btn) => {
       const k = btn.dataset.key;
-      const correctKeys = new Set(normalizeAnswer(q.answer).split(""));
+      const ans = String(q.answer || "").trim();
       btn.disabled = true;
+      if (!ans) return;
+      const correctKeys = new Set(normalizeAnswer(ans).split(""));
       if (correctKeys.has(normalizeAnswer(k))) btn.classList.add("correct");
-      else if (userKeys.has(k)) btn.classList.add("wrong");
+      else if (userKeys && userKeys.has(k)) btn.classList.add("wrong");
     });
   }
 
   function showFeedback(q, ok, userAns) {
     const fb = quizCard.querySelector("#feedback");
     fb.classList.remove("hidden");
+    const ans = String(q.answer || "").trim();
+    if (!ans) {
+      fb.className = "quiz-feedback warn";
+      fb.innerHTML = `⚠ 本题暂无标准答案（题库数据缺失，你的选择：${escapeHtml(userAns)}）`;
+      return;
+    }
     fb.className = "quiz-feedback " + (ok ? "ok" : "bad");
     const ansShow = q.type === "judge" ? q.answer : q.answer + (q.answerText ? `（${q.answerText}）` : "");
     fb.innerHTML = ok

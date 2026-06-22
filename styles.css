@@ -1124,6 +1124,12 @@ mark.search-hit {
   color: #dc2626;
 }
 
+.quiz-feedback.warn {
+  background: rgba(245, 158, 11, 0.08);
+  border: 1px solid rgba(245, 158, 11, 0.25);
+  color: #b45309;
+}
+
 [data-theme="dark"] .quiz-feedback.bad { color: #f87171; }
 
 .quiz-actions, .recall-actions {

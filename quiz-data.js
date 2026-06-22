@@ -11305,7 +11305,7 @@ window.QUIZ_DATA = {
           "text": "经济工作"
         }
       ],
-      "answer": "",
+      "answer": "D",
       "answerText": "",
       "chapter": "第10章",
       "source": "分章练习"
@@ -11333,7 +11333,7 @@ window.QUIZ_DATA = {
           "text": "周期性"
         }
       ],
-      "answer": "",
+      "answer": "D",
       "answerText": "",
       "chapter": "第10章",
       "source": "分章练习"
@@ -11361,7 +11361,7 @@ window.QUIZ_DATA = {
           "text": "效益"
         }
       ],
-      "answer": "",
+      "answer": "D",
       "answerText": "",
       "chapter": "第10章",
       "source": "分章练习"
@@ -11389,7 +11389,7 @@ window.QUIZ_DATA = {
           "text": "人民主体地位"
         }
       ],
-      "answer": "",
+      "answer": "A",
       "answerText": "",
       "chapter": "第10章",
       "source": "分章练习"
@@ -11417,7 +11417,7 @@ window.QUIZ_DATA = {
           "text": "社会福利补给"
         }
       ],
-      "answer": "",
+      "answer": "A",
       "answerText": "",
       "chapter": "第10章",
       "source": "分章练习"
@@ -11445,7 +11445,7 @@ window.QUIZ_DATA = {
           "text": "市场"
         }
       ],
-      "answer": "",
+      "answer": "D",
       "answerText": "",
       "chapter": "第10章",
       "source": "分章练习"
@@ -11473,7 +11473,7 @@ window.QUIZ_DATA = {
           "text": "现代化建设"
         }
       ],
-      "answer": "",
+      "answer": "B",
       "answerText": "",
       "chapter": "第10章",
       "source": "分章练习"
@@ -11501,7 +11501,7 @@ window.QUIZ_DATA = {
           "text": "建设现代化经济体系"
         }
       ],
-      "answer": "",
+      "answer": "A",
       "answerText": "",
       "chapter": "第10章",
       "source": "分章练习"
@@ -11529,7 +11529,7 @@ window.QUIZ_DATA = {
           "text": "社会服务"
         }
       ],
-      "answer": "",
+      "answer": "C",
       "answerText": "",
       "chapter": "第10章",
       "source": "分章练习"
@@ -11557,7 +11557,7 @@ window.QUIZ_DATA = {
           "text": "文化​"
         }
       ],
-      "answer": "",
+      "answer": "B",
       "answerText": "",
       "chapter": "第10章",
       "source": "分章练习"
@@ -11585,7 +11585,7 @@ window.QUIZ_DATA = {
           "text": "中华民族共同体意识"
         }
       ],
-      "answer": "",
+      "answer": "D",
       "answerText": "",
       "chapter": "第10章",
       "source": "分章练习"
@@ -11613,7 +11613,7 @@ window.QUIZ_DATA = {
           "text": "三农问题"
         }
       ],
-      "answer": "",
+      "answer": "C",
       "answerText": "",
       "chapter": "第10章",
       "source": "分章练习"
@@ -11641,7 +11641,7 @@ window.QUIZ_DATA = {
           "text": "中国特色社会文化"
         }
       ],
-      "answer": "",
+      "answer": "C",
       "answerText": "",
       "chapter": "第10章",
       "source": "分章练习"
@@ -11669,7 +11669,7 @@ window.QUIZ_DATA = {
           "text": "国家公园"
         }
       ],
-      "answer": "",
+      "answer": "D",
       "answerText": "",
       "chapter": "第10章",
       "source": "分章练习"
@@ -11697,7 +11697,7 @@ window.QUIZ_DATA = {
           "text": "更高质量和更平衡"
         }
       ],
-      "answer": "",
+      "answer": "C",
       "answerText": "",
       "chapter": "第10章",
       "source": "分章练习"
@@ -11725,7 +11725,7 @@ window.QUIZ_DATA = {
           "text": "提高供给物质水平"
         }
       ],
-      "answer": "",
+      "answer": "B",
       "answerText": "",
       "chapter": "第10章",
       "source": "分章练习"
@@ -11753,7 +11753,7 @@ window.QUIZ_DATA = {
           "text": "基层民主制度"
         }
       ],
-      "answer": "",
+      "answer": "A",
       "answerText": "",
       "chapter": "第10章",
       "source": "分章练习"
@@ -11781,7 +11781,7 @@ window.QUIZ_DATA = {
           "text": "绿水青山胜过金山银山"
         }
       ],
-      "answer": "",
+      "answer": "B",
       "answerText": "",
       "chapter": "第10章",
       "source": "分章练习"
@@ -11809,7 +11809,7 @@ window.QUIZ_DATA = {
           "text": "2035年"
         }
       ],
-      "answer": "",
+      "answer": "D",
       "answerText": "",
       "chapter": "第10章",
       "source": "分章练习"
@@ -11837,7 +11837,7 @@ window.QUIZ_DATA = {
           "text": "六位一体"
         }
       ],
-      "answer": "",
+      "answer": "B",
       "answerText": "",
       "chapter": "第10章",
       "source": "分章练习"
@@ -11865,7 +11865,7 @@ window.QUIZ_DATA = {
           "text": "十七大"
         }
       ],
-      "answer": "",
+      "answer": "A",
       "answerText": "",
       "chapter": "第14章",
       "source": "分章练习"
@@ -11893,7 +11893,7 @@ window.QUIZ_DATA = {
           "text": "增加党员人数"
         }
       ],
-      "answer": "",
+      "answer": "B",
       "answerText": "",
       "chapter": "第14章",
       "source": "分章练习"
@@ -11921,7 +11921,7 @@ window.QUIZ_DATA = {
           "text": "中国共产党的领导"
         }
       ],
-      "answer": "",
+      "answer": "D",
       "answerText": "",
       "chapter": "第14章",
       "source": "分章练习"
@@ -11949,7 +11949,7 @@ window.QUIZ_DATA = {
           "text": "中国新阶层的先锋队"
         }
       ],
-      "answer": "",
+      "answer": "C",
       "answerText": "",
       "chapter": "第14章",
       "source": "分章练习"
@@ -11977,7 +11977,7 @@ window.QUIZ_DATA = {
           "text": "十九届五中全会"
         }
       ],
-      "answer": "",
+      "answer": "C",
       "answerText": "",
       "chapter": "第14章",
       "source": "分章练习"
@@ -12005,7 +12005,7 @@ window.QUIZ_DATA = {
           "text": "马克思主义唯物史观"
         }
       ],
-      "answer": "",
+      "answer": "D",
       "answerText": "",
       "chapter": "第14章",
       "source": "分章练习"
@@ -12033,7 +12033,7 @@ window.QUIZ_DATA = {
           "text": "中国社会新兴阶层"
         }
       ],
-      "answer": "",
+      "answer": "A",
       "answerText": "",
       "chapter": "第14章",
       "source": "分章练习"
@@ -12061,7 +12061,7 @@ window.QUIZ_DATA = {
           "text": "没有中国共产党的监督"
         }
       ],
-      "answer": "",
+      "answer": "C",
       "answerText": "",
       "chapter": "第14章",
       "source": "分章练习"
@@ -12089,7 +12089,7 @@ window.QUIZ_DATA = {
           "text": "依法执政"
         }
       ],
-      "answer": "",
+      "answer": "C",
       "answerText": "",
       "chapter": "第14章",
       "source": "分章练习"
@@ -12117,7 +12117,7 @@ window.QUIZ_DATA = {
           "text": "为实现共产主义而奋斗"
         }
       ],
-      "answer": "",
+      "answer": "C",
       "answerText": "",
       "chapter": "第14章",
       "source": "分章练习"
@@ -12145,7 +12145,7 @@ window.QUIZ_DATA = {
           "text": "江泽民"
         }
       ],
-      "answer": "",
+      "answer": "A",
       "answerText": "",
       "chapter": "第14章",
       "source": "分章练习"
@@ -12173,7 +12173,7 @@ window.QUIZ_DATA = {
           "text": "思想建设"
         }
       ],
-      "answer": "",
+      "answer": "D",
       "answerText": "",
       "chapter": "第14章",
       "source": "分章练习"
@@ -12201,7 +12201,7 @@ window.QUIZ_DATA = {
           "text": "党"
         }
       ],
-      "answer": "",
+      "answer": "D",
       "answerText": "",
       "chapter": "第14章",
       "source": "分章练习"
@@ -12229,7 +12229,7 @@ window.QUIZ_DATA = {
           "text": "保密纪律"
         }
       ],
-      "answer": "",
+      "answer": "C",
       "answerText": "",
       "chapter": "第14章",
       "source": "分章练习"
@@ -12257,7 +12257,7 @@ window.QUIZ_DATA = {
           "text": "作风建设"
         }
       ],
-      "answer": "",
+      "answer": "B",
       "answerText": "",
       "chapter": "第14章",
       "source": "分章练习"
@@ -12285,7 +12285,7 @@ window.QUIZ_DATA = {
           "text": "批评与自我批评"
         }
       ],
-      "answer": "",
+      "answer": "C",
       "answerText": "",
       "chapter": "第14章",
       "source": "分章练习"
@@ -12313,7 +12313,7 @@ window.QUIZ_DATA = {
           "text": "解放和发展生产力"
         }
       ],
-      "answer": "",
+      "answer": "C",
       "answerText": "",
       "chapter": "第14章",
       "source": "分章练习"
@@ -12341,7 +12341,7 @@ window.QUIZ_DATA = {
           "text": "作风治党"
         }
       ],
-      "answer": "",
+      "answer": "B",
       "answerText": "",
       "chapter": "第14章",
       "source": "分章练习"
@@ -12369,7 +12369,7 @@ window.QUIZ_DATA = {
           "text": "提高领导水平和执政能力"
         }
       ],
-      "answer": "",
+      "answer": "D",
       "answerText": "",
       "chapter": "第14章",
       "source": "分章练习"
@@ -12397,7 +12397,7 @@ window.QUIZ_DATA = {
           "text": "伟大事业"
         }
       ],
-      "answer": "",
+      "answer": "B",
       "answerText": "",
       "chapter": "第14章",
       "source": "分章练习"
@@ -12425,7 +12425,7 @@ window.QUIZ_DATA = {
           "text": "中国特色社会主义制度的最大优势。"
         }
       ],
-      "answer": "",
+      "answer": "ABCD",
       "answerText": "",
       "chapter": "第14章",
       "source": "分章练习"
@@ -12453,7 +12453,7 @@ window.QUIZ_DATA = {
           "text": "发动者"
         }
       ],
-      "answer": "",
+      "answer": "ABC",
       "answerText": "",
       "chapter": "第14章",
       "source": "分章练习"
@@ -12481,7 +12481,7 @@ window.QUIZ_DATA = {
           "text": "创造性"
         }
       ],
-      "answer": "",
+      "answer": "BCD",
       "answerText": "",
       "chapter": "第14章",
       "source": "分章练习"
@@ -12509,7 +12509,7 @@ window.QUIZ_DATA = {
           "text": "经济发展"
         }
       ],
-      "answer": "",
+      "answer": "ABCD",
       "answerText": "",
       "chapter": "第14章",
       "source": "分章练习"
@@ -12537,7 +12537,7 @@ window.QUIZ_DATA = {
           "text": "严明组织纪律"
         }
       ],
-      "answer": "",
+      "answer": "ABD",
       "answerText": "",
       "chapter": "第14章",
       "source": "分章练习"
@@ -12565,7 +12565,7 @@ window.QUIZ_DATA = {
           "text": "伟大梦想"
         }
       ],
-      "answer": "",
+      "answer": "ABCD",
       "answerText": "",
       "chapter": "第14章",
       "source": "分章练习"
@@ -12593,7 +12593,7 @@ window.QUIZ_DATA = {
           "text": "看齐意识"
         }
       ],
-      "answer": "",
+      "answer": "ABD",
       "answerText": "",
       "chapter": "第14章",
       "source": "分章练习"
@@ -12621,7 +12621,7 @@ window.QUIZ_DATA = {
           "text": "全国人大"
         }
       ],
-      "answer": "",
+      "answer": "ABC",
       "answerText": "",
       "chapter": "第14章",
       "source": "分章练习"
@@ -12649,7 +12649,7 @@ window.QUIZ_DATA = {
           "text": "先进性"
         }
       ],
-      "answer": "",
+      "answer": "ABC",
       "answerText": "",
       "chapter": "第14章",
       "source": "分章练习"
@@ -12705,7 +12705,7 @@ window.QUIZ_DATA = {
           "text": "依法决策"
         }
       ],
-      "answer": "",
+      "answer": "ABD",
       "answerText": "",
       "chapter": "第14章",
       "source": "分章练习"
@@ -12789,7 +12789,7 @@ window.QUIZ_DATA = {
           "text": "外部环境考验"
         }
       ],
-      "answer": "",
+      "answer": "ABCD",
       "answerText": "",
       "chapter": "第14章",
       "source": "分章练习"
@@ -12817,7 +12817,7 @@ window.QUIZ_DATA = {
           "text": "增强狠抓落实本领，增强驾驭风险本领"
         }
       ],
-      "answer": "",
+      "answer": "ABCD",
       "answerText": "",
       "chapter": "第14章",
       "source": "分章练习"
@@ -12845,7 +12845,7 @@ window.QUIZ_DATA = {
           "text": "中国梦"
         }
       ],
-      "answer": "",
+      "answer": "AC",
       "answerText": "",
       "chapter": "第14章",
       "source": "分章练习"
@@ -12873,7 +12873,7 @@ window.QUIZ_DATA = {
           "text": "社会号召力"
         }
       ],
-      "answer": "",
+      "answer": "ABCD",
       "answerText": "",
       "chapter": "第14章",
       "source": "分章练习"
@@ -12929,7 +12929,7 @@ window.QUIZ_DATA = {
           "text": "生态文明"
         }
       ],
-      "answer": "",
+      "answer": "ABCD",
       "answerText": "",
       "chapter": "第14章",
       "source": "分章练习"
@@ -12957,7 +12957,7 @@ window.QUIZ_DATA = {
           "text": "全党各个组织和全体党员服从党的全国代表大会和中央委员会"
         }
       ],
-      "answer": "",
+      "answer": "ABCD",
       "answerText": "",
       "chapter": "第14章",
       "source": "分章练习"
@@ -13545,7 +13545,7 @@ window.QUIZ_DATA = {
           "text": "毛泽东的思想"
         }
       ],
-      "answer": "",
+      "answer": "ABC",
       "answerText": "",
       "chapter": "第1章",
       "source": "分章练习"
@@ -13573,7 +13573,7 @@ window.QUIZ_DATA = {
           "text": "《湖南农民运动考察报告》"
         }
       ],
-      "answer": "",
+      "answer": "BD",
       "answerText": "",
       "chapter": "第1章",
       "source": "分章练习"
@@ -13601,7 +13601,7 @@ window.QUIZ_DATA = {
           "text": "《反对本本主义》"
         }
       ],
-      "answer": "",
+      "answer": "ABCD",
       "answerText": "",
       "chapter": "第1章",
       "source": "分章练习"
@@ -13629,7 +13629,7 @@ window.QUIZ_DATA = {
           "text": "《<共产党人>发刊词》"
         }
       ],
-      "answer": "",
+      "answer": "ABCD",
       "answerText": "",
       "chapter": "第1章",
       "source": "分章练习"
@@ -13657,7 +13657,7 @@ window.QUIZ_DATA = {
           "text": "中华人民共和国建立后"
         }
       ],
-      "answer": "",
+      "answer": "CD",
       "answerText": "",
       "chapter": "第1章",
       "source": "分章练习"
@@ -13685,7 +13685,7 @@ window.QUIZ_DATA = {
           "text": "指明了新民主主义革命的具体目标"
         }
       ],
-      "answer": "",
+      "answer": "ABCD",
       "answerText": "",
       "chapter": "第1章",
       "source": "分章练习"
@@ -13713,7 +13713,7 @@ window.QUIZ_DATA = {
           "text": "提出了把马列主义的基本原理同中国革命和建设的具体实际“第二次结合”"
         }
       ],
-      "answer": "",
+      "answer": "ABCD",
       "answerText": "",
       "chapter": "第1章",
       "source": "分章练习"
@@ -13741,7 +13741,7 @@ window.QUIZ_DATA = {
           "text": "政策和策略以及党的建设的理论"
         }
       ],
-      "answer": "",
+      "answer": "ABCD",
       "answerText": "",
       "chapter": "第1章",
       "source": "分章练习"
@@ -13769,7 +13769,7 @@ window.QUIZ_DATA = {
           "text": "知识分子"
         }
       ],
-      "answer": "",
+      "answer": "AC",
       "answerText": "",
       "chapter": "第1章",
       "source": "分章练习"
@@ -13797,7 +13797,7 @@ window.QUIZ_DATA = {
           "text": "对被领导者给以物质利益，至少不损害其利益，同时给以政治教育"
         }
       ],
-      "answer": "",
+      "answer": "AD",
       "answerText": "",
       "chapter": "第1章",
       "source": "分章练习"
@@ -13825,7 +13825,7 @@ window.QUIZ_DATA = {
           "text": "与时俱进"
         }
       ],
-      "answer": "",
+      "answer": "ABC",
       "answerText": "",
       "chapter": "第1章",
       "source": "分章练习"
@@ -13853,7 +13853,7 @@ window.QUIZ_DATA = {
           "text": "一切从实际出发"
         }
       ],
-      "answer": "",
+      "answer": "ACD",
       "answerText": "",
       "chapter": "第1章",
       "source": "分章练习"
@@ -13881,7 +13881,7 @@ window.QUIZ_DATA = {
           "text": "是新时期全党全国各族人民团结奋斗的共同思想基础"
         }
       ],
-      "answer": "",
+      "answer": "ABC",
       "answerText": "",
       "chapter": "第1章",
       "source": "分章练习"
@@ -13909,7 +13909,7 @@ window.QUIZ_DATA = {
           "text": "不仅有重要的历史意义，而且有重要的现实意义"
         }
       ],
-      "answer": "",
+      "answer": "ABCD",
       "answerText": "",
       "chapter": "第1章",
       "source": "分章练习"
@@ -13937,7 +13937,7 @@ window.QUIZ_DATA = {
           "text": "毛泽东思想为中国特色社会主义理论体系的形成奠定了理论基础"
         }
       ],
-      "answer": "",
+      "answer": "ABCD",
       "answerText": "",
       "chapter": "第1章",
       "source": "分章练习"
@@ -14833,7 +14833,7 @@ window.QUIZ_DATA = {
           "text": "封建主义"
         }
       ],
-      "answer": "",
+      "answer": "BCD",
       "answerText": "",
       "chapter": "第2章",
       "source": "分章练习"
@@ -14861,7 +14861,7 @@ window.QUIZ_DATA = {
           "text": "民族资产阶级"
         }
       ],
-      "answer": "",
+      "answer": "ABCD",
       "answerText": "",
       "chapter": "第2章",
       "source": "分章练习"
@@ -14889,7 +14889,7 @@ window.QUIZ_DATA = {
           "text": "没有任何生产资料"
         }
       ],
-      "answer": "",
+      "answer": "ABC",
       "answerText": "",
       "chapter": "第2章",
       "source": "分章练习"
@@ -14917,7 +14917,7 @@ window.QUIZ_DATA = {
           "text": "加强无产阶级政党的建设"
         }
       ],
-      "answer": "",
+      "answer": "ABCD",
       "answerText": "",
       "chapter": "第2章",
       "source": "分章练习"
@@ -14945,7 +14945,7 @@ window.QUIZ_DATA = {
           "text": "它有了新的前途，经过新民主主义革命进而达到社会主义的目标"
         }
       ],
-      "answer": "",
+      "answer": "ABD",
       "answerText": "",
       "chapter": "第2章",
       "source": "分章练习"
@@ -14973,7 +14973,7 @@ window.QUIZ_DATA = {
           "text": "社会主义革命是新民主主义革命的必然趋势"
         }
       ],
-      "answer": "",
+      "answer": "BD",
       "answerText": "",
       "chapter": "第2章",
       "source": "分章练习"
@@ -15001,7 +15001,7 @@ window.QUIZ_DATA = {
           "text": "人民当家作主是国家制度的核心内容和基本准则"
         }
       ],
-      "answer": "",
+      "answer": "ABD",
       "answerText": "",
       "chapter": "第2章",
       "source": "分章练习"
@@ -15029,7 +15029,7 @@ window.QUIZ_DATA = {
           "text": "保护民族工商业"
         }
       ],
-      "answer": "",
+      "answer": "ACD",
       "answerText": "",
       "chapter": "第2章",
       "source": "分章练习"
@@ -15057,7 +15057,7 @@ window.QUIZ_DATA = {
           "text": "为全民族90%以上的工农大众服务"
         }
       ],
-      "answer": "",
+      "answer": "BC",
       "answerText": "",
       "chapter": "第2章",
       "source": "分章练习"
@@ -15085,7 +15085,7 @@ window.QUIZ_DATA = {
           "text": "中国内无民主制度，外无民族独立"
         }
       ],
-      "answer": "",
+      "answer": "BCD",
       "answerText": "",
       "chapter": "第2章",
       "source": "分章练习"
@@ -15113,7 +15113,7 @@ window.QUIZ_DATA = {
           "text": "革命的领导者中国共产党是农民阶级的先锋队组织"
         }
       ],
-      "answer": "",
+      "answer": "BC",
       "answerText": "",
       "chapter": "第2章",
       "source": "分章练习"
@@ -15141,7 +15141,7 @@ window.QUIZ_DATA = {
           "text": "党的领导的有力量及其政策的不错误"
         }
       ],
-      "answer": "",
+      "answer": "ABCD",
       "answerText": "",
       "chapter": "第2章",
       "source": "分章练习"
@@ -15169,7 +15169,7 @@ window.QUIZ_DATA = {
           "text": "党的领导的有力量及其政策的不错误"
         }
       ],
-      "answer": "",
+      "answer": "CD",
       "answerText": "",
       "chapter": "第2章",
       "source": "分章练习"
@@ -15197,7 +15197,7 @@ window.QUIZ_DATA = {
           "text": "农村根据地建设"
         }
       ],
-      "answer": "",
+      "answer": "ACD",
       "answerText": "",
       "chapter": "第2章",
       "source": "分章练习"
@@ -15225,7 +15225,7 @@ window.QUIZ_DATA = {
           "text": "土地革命"
         }
       ],
-      "answer": "",
+      "answer": "ABC",
       "answerText": "",
       "chapter": "第2章",
       "source": "分章练习"
@@ -15253,7 +15253,7 @@ window.QUIZ_DATA = {
           "text": "城市小资产阶级"
         }
       ],
-      "answer": "",
+      "answer": "AC",
       "answerText": "",
       "chapter": "第2章",
       "source": "分章练习"
@@ -15281,7 +15281,7 @@ window.QUIZ_DATA = {
           "text": "城市小资产阶级"
         }
       ],
-      "answer": "",
+      "answer": "BCD",
       "answerText": "",
       "chapter": "第2章",
       "source": "分章练习"
@@ -15309,7 +15309,7 @@ window.QUIZ_DATA = {
           "text": "工人阶级同可以合作的非劳动者之间的联盟"
         }
       ],
-      "answer": "",
+      "answer": "BD",
       "answerText": "",
       "chapter": "第2章",
       "source": "分章练习"
@@ -15337,7 +15337,7 @@ window.QUIZ_DATA = {
           "text": "正确发挥两个联盟之间的相互作用，使它们相互促进"
         }
       ],
-      "answer": "",
+      "answer": "ABD",
       "answerText": "",
       "chapter": "第2章",
       "source": "分章练习"
@@ -15365,7 +15365,7 @@ window.QUIZ_DATA = {
           "text": "“文化大革命”时期"
         }
       ],
-      "answer": "",
+      "answer": "A",
       "answerText": "",
       "chapter": "第3章",
       "source": "分章练习"
@@ -15393,7 +15393,7 @@ window.QUIZ_DATA = {
           "text": "人民日益增长的物质文化需要同落后的社会生产之间的矛盾"
         }
       ],
-      "answer": "",
+      "answer": "C",
       "answerText": "",
       "chapter": "第3章",
       "source": "分章练习"
@@ -15421,7 +15421,7 @@ window.QUIZ_DATA = {
           "text": "合作社经济"
         }
       ],
-      "answer": "",
+      "answer": "C",
       "answerText": "",
       "chapter": "第3章",
       "source": "分章练习"
@@ -15449,7 +15449,7 @@ window.QUIZ_DATA = {
           "text": "没收地主阶级的土地和财产"
         }
       ],
-      "answer": "",
+      "answer": "B",
       "answerText": "",
       "chapter": "第3章",
       "source": "分章练习"
@@ -15477,7 +15477,7 @@ window.QUIZ_DATA = {
           "text": "合作社经济"
         }
       ],
-      "answer": "",
+      "answer": "D",
       "answerText": "",
       "chapter": "第3章",
       "source": "分章练习"
@@ -15505,7 +15505,7 @@ window.QUIZ_DATA = {
           "text": "斯大林的合作化理论"
         }
       ],
-      "answer": "",
+      "answer": "C",
       "answerText": "",
       "chapter": "第3章",
       "source": "分章练习"
@@ -15533,7 +15533,7 @@ window.QUIZ_DATA = {
           "text": "生产责任制"
         }
       ],
-      "answer": "",
+      "answer": "C",
       "answerText": "",
       "chapter": "第3章",
       "source": "分章练习"
@@ -15561,7 +15561,7 @@ window.QUIZ_DATA = {
           "text": "对个体农业、手工业和资本主义工商业的改造"
         }
       ],
-      "answer": "",
+      "answer": "A",
       "answerText": "",
       "chapter": "第3章",
       "source": "分章练习"
@@ -15589,7 +15589,7 @@ window.QUIZ_DATA = {
           "text": "以中国特色社会主义为目标"
         }
       ],
-      "answer": "",
+      "answer": "D",
       "answerText": "",
       "chapter": "第3章",
       "source": "分章练习"
@@ -15617,7 +15617,7 @@ window.QUIZ_DATA = {
           "text": "改造个体农民和手工业者"
         }
       ],
-      "answer": "",
+      "answer": "A",
       "answerText": "",
       "chapter": "第3章",
       "source": "分章练习"
@@ -15645,7 +15645,7 @@ window.QUIZ_DATA = {
           "text": "民族资本主义工商业的社会主义改造问题"
         }
       ],
-      "answer": "",
+      "answer": "A",
       "answerText": "",
       "chapter": "第3章",
       "source": "分章练习"
@@ -15673,7 +15673,7 @@ window.QUIZ_DATA = {
           "text": "过渡时期的总路线"
         }
       ],
-      "answer": "",
+      "answer": "D",
       "answerText": "",
       "chapter": "第3章",
       "source": "分章练习"
@@ -15701,7 +15701,7 @@ window.QUIZ_DATA = {
           "text": "国家帮助，典型示范"
         }
       ],
-      "answer": "",
+      "answer": "C",
       "answerText": "",
       "chapter": "第3章",
       "source": "分章练习"
@@ -15729,7 +15729,7 @@ window.QUIZ_DATA = {
           "text": "非社会主义性质"
         }
       ],
-      "answer": "",
+      "answer": "A",
       "answerText": "",
       "chapter": "第3章",
       "source": "分章练习"
@@ -15757,7 +15757,7 @@ window.QUIZ_DATA = {
           "text": "合作化"
         }
       ],
-      "answer": "",
+      "answer": "A",
       "answerText": "",
       "chapter": "第3章",
       "source": "分章练习"
@@ -15785,7 +15785,7 @@ window.QUIZ_DATA = {
           "text": "公私合营"
         }
       ],
-      "answer": "",
+      "answer": "D",
       "answerText": "",
       "chapter": "第3章",
       "source": "分章练习"
@@ -15813,7 +15813,7 @@ window.QUIZ_DATA = {
           "text": "基本上属于社会主义国营性质"
         }
       ],
-      "answer": "",
+      "answer": "B",
       "answerText": "",
       "chapter": "第3章",
       "source": "分章练习"
@@ -15841,7 +15841,7 @@ window.QUIZ_DATA = {
           "text": "没有矛盾"
         }
       ],
-      "answer": "",
+      "answer": "C",
       "answerText": "",
       "chapter": "第3章",
       "source": "分章练习"
@@ -15869,7 +15869,7 @@ window.QUIZ_DATA = {
           "text": "中共十三大的召开"
         }
       ],
-      "answer": "",
+      "answer": "A",
       "answerText": "",
       "chapter": "第3章",
       "source": "分章练习"
@@ -15897,7 +15897,7 @@ window.QUIZ_DATA = {
           "text": "坚持思想基本原则和资产阶级自由化之间的矛盾"
         }
       ],
-      "answer": "",
+      "answer": "C",
       "answerText": "",
       "chapter": "第3章",
       "source": "分章练习"
@@ -15953,7 +15953,7 @@ window.QUIZ_DATA = {
           "text": "城市小资产阶级"
         }
       ],
-      "answer": "",
+      "answer": "ABCD",
       "answerText": "",
       "chapter": "第3章",
       "source": "分章练习"
@@ -15981,7 +15981,7 @@ window.QUIZ_DATA = {
           "text": "资本主义经济"
         }
       ],
-      "answer": "",
+      "answer": "BCD",
       "answerText": "",
       "chapter": "第3章",
       "source": "分章练习"
@@ -16009,7 +16009,7 @@ window.QUIZ_DATA = {
           "text": "民主革命的遗留任务已经完成"
         }
       ],
-      "answer": "",
+      "answer": "ABD",
       "answerText": "",
       "chapter": "第3章",
       "source": "分章练习"
@@ -16037,7 +16037,7 @@ window.QUIZ_DATA = {
           "text": "公私合营"
         }
       ],
-      "answer": "",
+      "answer": "ABC",
       "answerText": "",
       "chapter": "第3章",
       "source": "分章练习"
@@ -16065,7 +16065,7 @@ window.QUIZ_DATA = {
           "text": "公私合营"
         }
       ],
-      "answer": "",
+      "answer": "ABCD",
       "answerText": "",
       "chapter": "第3章",
       "source": "分章练习"
@@ -16093,7 +16093,7 @@ window.QUIZ_DATA = {
           "text": "对私人资本主义的赎买政策应始终坚持“四马分肥”"
         }
       ],
-      "answer": "",
+      "answer": "ABC",
       "answerText": "",
       "chapter": "第3章",
       "source": "分章练习"
@@ -16121,7 +16121,7 @@ window.QUIZ_DATA = {
           "text": "中国经济落后，需要利用民族资本主义经济有利于国计民生的一面"
         }
       ],
-      "answer": "",
+      "answer": "BCD",
       "answerText": "",
       "chapter": "第3章",
       "source": "分章练习"
@@ -16149,7 +16149,7 @@ window.QUIZ_DATA = {
           "text": "要求过急，发展过快，工作过粗，改造形式过于简单"
         }
       ],
-      "answer": "",
+      "answer": "ABCD",
       "answerText": "",
       "chapter": "第3章",
       "source": "分章练习"
@@ -16177,7 +16177,7 @@ window.QUIZ_DATA = {
           "text": "强调改革开放"
         }
       ],
-      "answer": "",
+      "answer": "ABC",
       "answerText": "",
       "chapter": "第4章",
       "source": "分章练习"
@@ -16205,7 +16205,7 @@ window.QUIZ_DATA = {
           "text": "积极因素和消极因素是对立统一的关系"
         }
       ],
-      "answer": "",
+      "answer": "ABCD",
       "answerText": "",
       "chapter": "第4章",
       "source": "分章练习"
@@ -16233,7 +16233,7 @@ window.QUIZ_DATA = {
           "text": "毛泽东《关于正确处理人民内部矛盾的问题》的重要讲话"
         }
       ],
-      "answer": "",
+      "answer": "ACD",
       "answerText": "",
       "chapter": "第4章",
       "source": "分章练习"
@@ -16253,7 +16253,7 @@ window.QUIZ_DATA = {
           "text": "探讨了沿海工业和内地工业的关系"
         }
       ],
-      "answer": "",
+      "answer": "ABCD",
       "answerText": "",
       "chapter": "第4章",
       "source": "分章练习"
@@ -16281,7 +16281,7 @@ window.QUIZ_DATA = {
           "text": "经济基础和上层建筑的矛盾"
         }
       ],
-      "answer": "",
+      "answer": "CD",
       "answerText": "",
       "chapter": "第4章",
       "source": "分章练习"
@@ -16309,7 +16309,7 @@ window.QUIZ_DATA = {
           "text": "无产阶级和资产阶级的矛盾"
         }
       ],
-      "answer": "",
+      "answer": "BC",
       "answerText": "",
       "chapter": "第4章",
       "source": "分章练习"
@@ -16337,7 +16337,7 @@ window.QUIZ_DATA = {
           "text": "人民同反抗社会主义主义革命的社会势力和社会集团的矛盾属于人民内部矛盾"
         }
       ],
-      "answer": "",
+      "answer": "AB",
       "answerText": "",
       "chapter": "第4章",
       "source": "分章练习"
@@ -16365,7 +16365,7 @@ window.QUIZ_DATA = {
           "text": "“长期共存，互相监督”"
         }
       ],
-      "answer": "",
+      "answer": "ABCD",
       "answerText": "",
       "chapter": "第4章",
       "source": "分章练习"
@@ -16393,7 +16393,7 @@ window.QUIZ_DATA = {
           "text": "第二步到本世纪末全面实现现代化，人民生活达到小康水平"
         }
       ],
-      "answer": "",
+      "answer": "AC",
       "answerText": "",
       "chapter": "第4章",
       "source": "分章练习"
@@ -16421,7 +16421,7 @@ window.QUIZ_DATA = {
           "text": "要建立适合我国情况和人民需要的社会主义的市场"
         }
       ],
-      "answer": "",
+      "answer": "ABCD",
       "answerText": "",
       "chapter": "第4章",
       "source": "分章练习"
@@ -16449,7 +16449,7 @@ window.QUIZ_DATA = {
           "text": "建立适合我国情况和人民需要的社会主义的市场"
         }
       ],
-      "answer": "",
+      "answer": "ABD",
       "answerText": "",
       "chapter": "第4章",
       "source": "分章练习"
@@ -16477,7 +16477,7 @@ window.QUIZ_DATA = {
           "text": "加强民主集中制"
         }
       ],
-      "answer": "",
+      "answer": "ABD",
       "answerText": "",
       "chapter": "第4章",
       "source": "分章练习"
@@ -16505,7 +16505,7 @@ window.QUIZ_DATA = {
           "text": "第二个阶段是相对发达的社会主义"
         }
       ],
-      "answer": "",
+      "answer": "ABC",
       "answerText": "",
       "chapter": "第4章",
       "source": "分章练习"
@@ -16533,7 +16533,7 @@ window.QUIZ_DATA = {
           "text": "为其他国家的社会主义建设提供了经验和借鉴"
         }
       ],
-      "answer": "",
+      "answer": "ABCD",
       "answerText": "",
       "chapter": "第4章",
       "source": "分章练习"
@@ -17149,7 +17149,7 @@ window.QUIZ_DATA = {
           "text": "改革开放和现代化建设的实践是邓小平理论形成的现实依据"
         }
       ],
-      "answer": "",
+      "answer": "ABD",
       "answerText": "",
       "chapter": "第5章",
       "source": "分章练习"
@@ -17177,7 +17177,7 @@ window.QUIZ_DATA = {
           "text": "发展问题,也称南北问题"
         }
       ],
-      "answer": "",
+      "answer": "BD",
       "answerText": "",
       "chapter": "第5章",
       "source": "分章练习"
@@ -17205,7 +17205,7 @@ window.QUIZ_DATA = {
           "text": "对什么是社会主义和如何建设社会主义的问题没有完全搞清楚"
         }
       ],
-      "answer": "",
+      "answer": "CD",
       "answerText": "",
       "chapter": "第5章",
       "source": "分章练习"
@@ -17233,7 +17233,7 @@ window.QUIZ_DATA = {
           "text": "作出实行改革开放的重大决策"
         }
       ],
-      "answer": "",
+      "answer": "ABCD",
       "answerText": "",
       "chapter": "第5章",
       "source": "分章练习"
@@ -17261,7 +17261,7 @@ window.QUIZ_DATA = {
           "text": "是否有利于融入全球体制"
         }
       ],
-      "answer": "",
+      "answer": "ABC",
       "answerText": "",
       "chapter": "第5章",
       "source": "分章练习"
@@ -17289,7 +17289,7 @@ window.QUIZ_DATA = {
           "text": "实现现代化"
         }
       ],
-      "answer": "",
+      "answer": "ABC",
       "answerText": "",
       "chapter": "第5章",
       "source": "分章练习"
@@ -17317,7 +17317,7 @@ window.QUIZ_DATA = {
           "text": "深化了对科学社会主义的认识"
         }
       ],
-      "answer": "",
+      "answer": "ABCD",
       "answerText": "",
       "chapter": "第5章",
       "source": "分章练习"
@@ -17345,7 +17345,7 @@ window.QUIZ_DATA = {
           "text": "建设中国特色的社会主义"
         }
       ],
-      "answer": "",
+      "answer": "ACD",
       "answerText": "",
       "chapter": "第5章",
       "source": "分章练习"
@@ -17373,7 +17373,7 @@ window.QUIZ_DATA = {
           "text": "“两手抓，两手都要硬”和“一国两制”"
         }
       ],
-      "answer": "",
+      "answer": "ABCD",
       "answerText": "",
       "chapter": "第5章",
       "source": "分章练习"
@@ -17401,7 +17401,7 @@ window.QUIZ_DATA = {
           "text": "是党和国家兴旺发达、长治久安的根本要求"
         }
       ],
-      "answer": "",
+      "answer": "ABCD",
       "answerText": "",
       "chapter": "第5章",
       "source": "分章练习"
@@ -18261,7 +18261,7 @@ window.QUIZ_DATA = {
           "text": "提高拒腐防变和抵御风险的能力"
         }
       ],
-      "answer": "",
+      "answer": "BD",
       "answerText": "",
       "chapter": "第6章",
       "source": "分章练习"
@@ -18289,7 +18289,7 @@ window.QUIZ_DATA = {
           "text": "力量之源"
         }
       ],
-      "answer": "",
+      "answer": "ABD",
       "answerText": "",
       "chapter": "第6章",
       "source": "分章练习"
@@ -18317,7 +18317,7 @@ window.QUIZ_DATA = {
           "text": "人民答应不答应"
         }
       ],
-      "answer": "",
+      "answer": "ABCD",
       "answerText": "",
       "chapter": "第6章",
       "source": "分章练习"
@@ -18345,7 +18345,7 @@ window.QUIZ_DATA = {
           "text": "三者是统一的整体，相互联系，相互促进"
         }
       ],
-      "answer": "",
+      "answer": "ABCD",
       "answerText": "",
       "chapter": "第6章",
       "source": "分章练习"
@@ -18373,7 +18373,7 @@ window.QUIZ_DATA = {
           "text": "精神文明"
         }
       ],
-      "answer": "",
+      "answer": "ABD",
       "answerText": "",
       "chapter": "第6章",
       "source": "分章练习"
@@ -18401,7 +18401,7 @@ window.QUIZ_DATA = {
           "text": "讲正气"
         }
       ],
-      "answer": "",
+      "answer": "BCD",
       "answerText": "",
       "chapter": "第6章",
       "source": "分章练习"
@@ -18429,7 +18429,7 @@ window.QUIZ_DATA = {
           "text": "推进中国特色社会主义事业的强大理论武器"
         }
       ],
-      "answer": "",
+      "answer": "ABCD",
       "answerText": "",
       "chapter": "第6章",
       "source": "分章练习"
@@ -18457,7 +18457,7 @@ window.QUIZ_DATA = {
           "text": "坚持党对意识形态领域的领导"
         }
       ],
-      "answer": "",
+      "answer": "ABCD",
       "answerText": "",
       "chapter": "第6章",
       "source": "分章练习"
@@ -18485,7 +18485,7 @@ window.QUIZ_DATA = {
           "text": "社会基础"
         }
       ],
-      "answer": "",
+      "answer": "ABD",
       "answerText": "",
       "chapter": "第6章",
       "source": "分章练习"
@@ -18513,7 +18513,7 @@ window.QUIZ_DATA = {
           "text": "存在地区之间、城乡之间的发展不协调、不平衡问题"
         }
       ],
-      "answer": "",
+      "answer": "ABCD",
       "answerText": "",
       "chapter": "第6章",
       "source": "分章练习"
@@ -19241,7 +19241,7 @@ window.QUIZ_DATA = {
           "text": "根本方法是统筹兼顾"
         }
       ],
-      "answer": "",
+      "answer": "ABCD",
       "answerText": "",
       "chapter": "第7章",
       "source": "分章练习"
@@ -19269,7 +19269,7 @@ window.QUIZ_DATA = {
           "text": "马克思主义中国化的独创性内容"
         }
       ],
-      "answer": "",
+      "answer": "ABC",
       "answerText": "",
       "chapter": "第7章",
       "source": "分章练习"
@@ -19297,7 +19297,7 @@ window.QUIZ_DATA = {
           "text": "不断提高发展的全面性、协调性、可持续性"
         }
       ],
-      "answer": "",
+      "answer": "ABCD",
       "answerText": "",
       "chapter": "第7章",
       "source": "分章练习"
@@ -19325,7 +19325,7 @@ window.QUIZ_DATA = {
           "text": "坚持发展为了人民、发展依靠人民、发展成果由人民共享"
         }
       ],
-      "answer": "",
+      "answer": "ABCD",
       "answerText": "",
       "chapter": "第7章",
       "source": "分章练习"
@@ -19353,7 +19353,7 @@ window.QUIZ_DATA = {
           "text": "是正确处理党际、国际问题的方针原则"
         }
       ],
-      "answer": "",
+      "answer": "ABC",
       "answerText": "",
       "chapter": "第7章",
       "source": "分章练习"
@@ -19381,7 +19381,7 @@ window.QUIZ_DATA = {
           "text": "开放性"
         }
       ],
-      "answer": "",
+      "answer": "ABC",
       "answerText": "",
       "chapter": "第7章",
       "source": "分章练习"
@@ -19409,7 +19409,7 @@ window.QUIZ_DATA = {
           "text": "建设面向现代化、面向世界、面向未来的，民族的科学的大众的社会主义文化"
         }
       ],
-      "answer": "",
+      "answer": "ABCD",
       "answerText": "",
       "chapter": "第7章",
       "source": "分章练习"
@@ -19437,7 +19437,7 @@ window.QUIZ_DATA = {
           "text": "社会主义荣辱观"
         }
       ],
-      "answer": "",
+      "answer": "ABCD",
       "answerText": "",
       "chapter": "第7章",
       "source": "分章练习"
@@ -19465,7 +19465,7 @@ window.QUIZ_DATA = {
           "text": "安定有序、人与自然和谐相处"
         }
       ],
-      "answer": "",
+      "answer": "ABD",
       "answerText": "",
       "chapter": "第7章",
       "source": "分章练习"
@@ -19493,7 +19493,7 @@ window.QUIZ_DATA = {
           "text": "共商、共建、共治、共享"
         }
       ],
-      "answer": "",
+      "answer": "ABC",
       "answerText": "",
       "chapter": "第7章",
       "source": "分章练习"
@@ -19521,7 +19521,7 @@ window.QUIZ_DATA = {
           "text": "征服自然"
         }
       ],
-      "answer": "",
+      "answer": "ABC",
       "answerText": "",
       "chapter": "第7章",
       "source": "分章练习"
@@ -19549,7 +19549,7 @@ window.QUIZ_DATA = {
           "text": "以消费改造为主导"
         }
       ],
-      "answer": "",
+      "answer": "ABC",
       "answerText": "",
       "chapter": "第7章",
       "source": "分章练习"
@@ -19577,7 +19577,7 @@ window.QUIZ_DATA = {
           "text": "市场经济考验"
         }
       ],
-      "answer": "",
+      "answer": "ABCD",
       "answerText": "",
       "chapter": "第7章",
       "source": "分章练习"
@@ -19605,7 +19605,7 @@ window.QUIZ_DATA = {
           "text": "消极腐败危险"
         }
       ],
-      "answer": "",
+      "answer": "ABCD",
       "answerText": "",
       "chapter": "第7章",
       "source": "分章练习"
@@ -19633,7 +19633,7 @@ window.QUIZ_DATA = {
           "text": "推进社会主义生态文明建设的能力、应对国际局势和处理国际事务的能力"
         }
       ],
-      "answer": "",
+      "answer": "ABCD",
       "answerText": "",
       "chapter": "第7章",
       "source": "分章练习"
@@ -19661,7 +19661,7 @@ window.QUIZ_DATA = {
           "text": "政党执政规律的总体认识"
         }
       ],
-      "answer": "",
+      "answer": "AB",
       "answerText": "",
       "chapter": "第7章",
       "source": "分章练习"
@@ -19689,7 +19689,7 @@ window.QUIZ_DATA = {
           "text": "科学判断党的历史方位和总结历史经验"
         }
       ],
-      "answer": "",
+      "answer": "ABC",
       "answerText": "",
       "chapter": "第7章",
       "source": "分章练习"
@@ -19717,7 +19717,7 @@ window.QUIZ_DATA = {
           "text": "初步构建了中国特色社会主义理论框架"
         }
       ],
-      "answer": "",
+      "answer": "ABC",
       "answerText": "",
       "chapter": "第7章",
       "source": "分章练习"
@@ -19745,7 +19745,7 @@ window.QUIZ_DATA = {
           "text": "坚持代表最广大人民根本利益"
         }
       ],
-      "answer": "",
+      "answer": "ABCD",
       "answerText": "",
       "chapter": "第7章",
       "source": "分章练习"
@@ -19773,7 +19773,7 @@ window.QUIZ_DATA = {
           "text": "生物多样"
         }
       ],
-      "answer": "",
+      "answer": "ABC",
       "answerText": "",
       "chapter": "第7章",
       "source": "分章练习"
@@ -19801,7 +19801,7 @@ window.QUIZ_DATA = {
           "text": "长风破浪会有时"
         }
       ],
-      "answer": "",
+      "answer": "D",
       "answerText": "",
       "chapter": "第9章",
       "source": "分章练习"
@@ -19829,7 +19829,7 @@ window.QUIZ_DATA = {
           "text": "世界的梦"
         }
       ],
-      "answer": "",
+      "answer": "B",
       "answerText": "",
       "chapter": "第9章",
       "source": "分章练习"
@@ -19857,7 +19857,7 @@ window.QUIZ_DATA = {
           "text": "国家情怀、家庭情怀、人民情怀"
         }
       ],
-      "answer": "",
+      "answer": "A",
       "answerText": "",
       "chapter": "第9章",
       "source": "分章练习"
@@ -19885,7 +19885,7 @@ window.QUIZ_DATA = {
           "text": "梦想成真必须实干"
         }
       ],
-      "answer": "",
+      "answer": "C",
       "answerText": "",
       "chapter": "第9章",
       "source": "分章练习"
@@ -19913,7 +19913,7 @@ window.QUIZ_DATA = {
           "text": "中国特色社会主义道路"
         }
       ],
-      "answer": "",
+      "answer": "D",
       "answerText": "",
       "chapter": "第9章",
       "source": "分章练习"
@@ -19941,7 +19941,7 @@ window.QUIZ_DATA = {
           "text": "保障有力的军事力量"
         }
       ],
-      "answer": "",
+      "answer": "A",
       "answerText": "",
       "chapter": "第9章",
       "source": "分章练习"
@@ -19969,7 +19969,7 @@ window.QUIZ_DATA = {
           "text": "改革创新"
         }
       ],
-      "answer": "",
+      "answer": "B",
       "answerText": "",
       "chapter": "第9章",
       "source": "分章练习"
@@ -19997,7 +19997,7 @@ window.QUIZ_DATA = {
           "text": "建成社会主义现代化国家"
         }
       ],
-      "answer": "",
+      "answer": "C",
       "answerText": "",
       "chapter": "第9章",
       "source": "分章练习"
@@ -20025,7 +20025,7 @@ window.QUIZ_DATA = {
           "text": "中国特色 社会主义事业"
         }
       ],
-      "answer": "",
+      "answer": "B",
       "answerText": "",
       "chapter": "第9章",
       "source": "分章练习"
@@ -20053,7 +20053,7 @@ window.QUIZ_DATA = {
           "text": "基本实现社会主义现代化。"
         }
       ],
-      "answer": "",
+      "answer": "D",
       "answerText": "",
       "chapter": "第9章",
       "source": "分章练习"
@@ -20081,7 +20081,7 @@ window.QUIZ_DATA = {
           "text": "30年"
         }
       ],
-      "answer": "",
+      "answer": "B",
       "answerText": "",
       "chapter": "第9章",
       "source": "分章练习"
@@ -20109,7 +20109,7 @@ window.QUIZ_DATA = {
           "text": "基本实现社会主义现代化"
         }
       ],
-      "answer": "",
+      "answer": "D",
       "answerText": "",
       "chapter": "第9章",
       "source": "分章练习"
@@ -20137,7 +20137,7 @@ window.QUIZ_DATA = {
           "text": "坚持和发展中国特色社会主义的总安排"
         }
       ],
-      "answer": "",
+      "answer": "C",
       "answerText": "",
       "chapter": "第9章",
       "source": "分章练习"
@@ -20165,7 +20165,7 @@ window.QUIZ_DATA = {
           "text": "五个阶段"
         }
       ],
-      "answer": "",
+      "answer": "A",
       "answerText": "",
       "chapter": "第9章",
       "source": "分章练习"
@@ -20193,7 +20193,7 @@ window.QUIZ_DATA = {
           "text": "“十五五”"
         }
       ],
-      "answer": "",
+      "answer": "C",
       "answerText": "",
       "chapter": "第9章",
       "source": "分章练习"
@@ -20361,7 +20361,7 @@ window.QUIZ_DATA = {
           "text": "中国梦是中华民族伟大复兴的形象表达"
         }
       ],
-      "answer": "",
+      "answer": "BCD",
       "answerText": "",
       "chapter": "第9章",
       "source": "分章练习"
@@ -20389,7 +20389,7 @@ window.QUIZ_DATA = {
           "text": "“长风破浪会有时”"
         }
       ],
-      "answer": "",
+      "answer": "ACD",
       "answerText": "",
       "chapter": "第9章",
       "source": "分章练习"
@@ -20417,7 +20417,7 @@ window.QUIZ_DATA = {
           "text": "人民幸福"
         }
       ],
-      "answer": "",
+      "answer": "ACD",
       "answerText": "",
       "chapter": "第9章",
       "source": "分章练习"
@@ -20445,7 +20445,7 @@ window.QUIZ_DATA = {
           "text": "凝聚中国力量"
         }
       ],
-      "answer": "",
+      "answer": "ACD",
       "answerText": "",
       "chapter": "第9章",
       "source": "分章练习"
@@ -20473,7 +20473,7 @@ window.QUIZ_DATA = {
           "text": "人民幸福是国家富强、民族振兴的根本出发点和落脚点"
         }
       ],
-      "answer": "",
+      "answer": "ABCD",
       "answerText": "",
       "chapter": "第9章",
       "source": "分章练习"
@@ -20501,7 +20501,7 @@ window.QUIZ_DATA = {
           "text": "实现中国梦需要和平，只有和平才能实现梦想"
         }
       ],
-      "answer": "",
+      "answer": "ABCD",
       "answerText": "",
       "chapter": "第9章",
       "source": "分章练习"
@@ -20529,7 +20529,7 @@ window.QUIZ_DATA = {
           "text": "到新中国成立100年时基本实现现代化，建成社会主义现代化国家"
         }
       ],
-      "answer": "",
+      "answer": "CD",
       "answerText": "",
       "chapter": "第9章",
       "source": "分章练习"
@@ -20557,7 +20557,7 @@ window.QUIZ_DATA = {
           "text": "第二个阶段，从2035年到本世纪中叶，在基本实现现代化的基础上，再奋斗15年，把我国建成富强民主文明和谐美丽的社会主义现代化强国"
         }
       ],
-      "answer": "",
+      "answer": "CD",
       "answerText": "",
       "chapter": "第9章",
       "source": "分章练习"
@@ -20609,7 +20609,7 @@ window.QUIZ_DATA = {
           "text": "社会主义现代化开启征程"
         }
       ],
-      "answer": "",
+      "answer": "ABCD",
       "answerText": "",
       "chapter": "第9章",
       "source": "分章练习"
@@ -20637,7 +20637,7 @@ window.QUIZ_DATA = {
           "text": "为民族谋幸福"
         }
       ],
-      "answer": "",
+      "answer": "AC",
       "answerText": "",
       "chapter": "第9章",
       "source": "分章练习"
@@ -20665,7 +20665,7 @@ window.QUIZ_DATA = {
           "text": "第二个阶段，从2035年到本世纪中叶，在基本实现现代化的基础上，再奋斗15年，把我国建成富强民主文明和谐美丽的社会主义现代化强国"
         }
       ],
-      "answer": "",
+      "answer": "CD",
       "answerText": "",
       "chapter": "第9章",
       "source": "分章练习"
@@ -20693,7 +20693,7 @@ window.QUIZ_DATA = {
           "text": "在生态文明建设方面，生态环境根本好转，美丽中国目标基本实现"
         }
       ],
-      "answer": "",
+      "answer": "ABCD",
       "answerText": "",
       "chapter": "第9章",
       "source": "分章练习"
@@ -20721,7 +20721,7 @@ window.QUIZ_DATA = {
           "text": "我国将拥有高度的社会文明，城乡居民将普遍拥有较高的收入、富裕的生活、健全的基本公共服务"
         }
       ],
-      "answer": "",
+      "answer": "ABCD",
       "answerText": "",
       "chapter": "第9章",
       "source": "分章练习"

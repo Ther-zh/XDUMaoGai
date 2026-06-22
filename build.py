@@ -424,6 +424,23 @@ def subjective_from_refined(data: dict) -> list[dict]:
     return items
 
 
+def parse_chapter_answer_map(tail: str, qtype: str) -> dict[int, str]:
+    """Parse 参考答案 block after a choice section (single: 1-5DDDAA, multi: 1.ABD)."""
+    ans_map: dict[int, str] = {}
+    head = tail[:800]
+    if qtype == "single":
+        for range_m in re.finditer(r"(\d+)-(\d+)([A-D]+)", head):
+            start, end, letters = int(range_m.group(1)), int(range_m.group(2)), range_m.group(3)
+            for offset, ch in enumerate(letters):
+                num = start + offset
+                if num <= end:
+                    ans_map[num] = ch
+        return ans_map
+    for am in re.finditer(r"(\d+)\.([A-D]+)", head):
+        ans_map[int(am.group(1))] = am.group(2)
+    return ans_map
+
+
 def parse_chapter_exercises() -> tuple[list[dict], list[dict]]:
     """Parse per-chapter docx practice files (MCQ + short answer)."""
     objective = []
@@ -465,11 +482,7 @@ def parse_chapter_exercises() -> tuple[list[dict], list[dict]]:
             if not sm:
                 continue
             body = sm.group(1)
-            ans_m = re.search(rf"参考答案\s*\n(.+)", text[sm.end() : sm.end() + 400])
-            ans_map = {}
-            if ans_m:
-                for am in re.finditer(r"(\d+)\.([A-D]+)", ans_m.group(1)):
-                    ans_map[int(am.group(1))] = am.group(2)
+            ans_map = parse_chapter_answer_map(text[sm.end() :], qtype)
 
             parts = re.split(r"\n(?=\d+[\.、])", body.strip())
             for part in parts:
