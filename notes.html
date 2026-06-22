@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>精炼笔记 · 毛概学习站</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@500;600;700&family=Source+Sans+3:wght@400;500;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body data-page="notes">
+  <div class="progress-bar" id="progressBar" aria-hidden="true"></div>
+
+  <header class="topbar">
+    <div class="topbar-start">
+      <button type="button" class="icon-btn menu-btn" id="menuBtn" aria-label="打开目录" aria-expanded="false">
+        <svg width="20" height="20" viewBox="0 0 20 20" fill="none" aria-hidden="true">
+          <path d="M3 5h14M3 10h14M3 15h14" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+        </svg>
+      </button>
+      <div class="brand">
+        <span class="brand-icon" aria-hidden="true">毛</span>
+        <div class="brand-text">
+          <h1>精炼笔记</h1>
+          <p class="subtitle">【记】背诵 · 【答】话术</p>
+        </div>
+      </div>
+    </div>
+
+    <nav class="site-nav site-nav-compact" aria-label="站点导航">
+      <a href="index.html" data-page="home">首页</a>
+      <a href="notes.html" data-page="notes">笔记</a>
+      <a href="quiz.html" data-page="quiz">刷题</a>
+      <a href="recall.html" data-page="recall">过题</a>
+    </nav>
+
+    <div class="controls">
+      <div class="search-wrap">
+        <svg class="search-icon" width="16" height="16" viewBox="0 0 16 16" fill="none" aria-hidden="true">
+          <circle cx="7" cy="7" r="4.5" stroke="currentColor" stroke-width="1.3"/>
+          <path d="M10.5 10.5L14 14" stroke="currentColor" stroke-width="1.3" stroke-linecap="round"/>
+        </svg>
+        <input type="search" id="search" placeholder="搜索章节、题目…" autocomplete="off" />
+        <kbd class="search-hint" aria-hidden="true">/</kbd>
+      </div>
+      <label class="pill-toggle" title="仅显示【记】">
+        <input type="checkbox" id="memoOnly" />
+        <span class="pill-track"><span class="pill-thumb"></span></span>
+        <span class="pill-label">仅记</span>
+      </label>
+      <button type="button" class="icon-btn" data-theme-toggle aria-label="切换主题">
+        <svg class="icon-sun" width="18" height="18" viewBox="0 0 18 18" fill="none" aria-hidden="true">
+          <circle cx="9" cy="9" r="3.5" stroke="currentColor" stroke-width="1.3"/>
+          <path d="M9 1.5v2M9 14.5v2M1.5 9h2M14.5 9h2" stroke="currentColor" stroke-width="1.3" stroke-linecap="round"/>
+        </svg>
+        <svg class="icon-moon" width="18" height="18" viewBox="0 0 18 18" fill="none" aria-hidden="true">
+          <path d="M14.5 10.2A6 6 0 017.8 3.5 6 6 0 1014.5 10.2z" stroke="currentColor" stroke-width="1.3"/>
+        </svg>
+      </button>
+    </div>
+  </header>
+
+  <div class="sidebar-overlay" id="sidebarOverlay" aria-hidden="true"></div>
+
+  <div class="layout">
+    <aside class="sidebar" id="sidebar">
+      <div class="sidebar-head">
+        <p class="nav-label">章节目录</p>
+        <p class="nav-stats" id="navStats"></p>
+      </div>
+      <ul id="navList"></ul>
+    </aside>
+
+    <main class="content" id="main">
+      <section class="hero" id="hero"></section>
+      <div id="sections"></div>
+      <footer class="footnotes" id="footnotes"></footer>
+    </main>
+  </div>
+
+  <button type="button" class="fab" id="fab" aria-label="回到顶部">
+    <svg width="18" height="18" viewBox="0 0 18 18" fill="none" aria-hidden="true">
+      <path d="M9 14V4M9 4L5 8M9 4l4 4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </svg>
+  </button>
+
+  <script src="data.js"></script>
+  <script src="shared.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

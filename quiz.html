@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>客观刷题 · 毛概学习站</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@500;600;700&family=Source+Sans+3:wght@400;500;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body data-page="quiz">
+  <header class="topbar topbar-simple">
+    <div class="brand">
+      <span class="brand-icon" aria-hidden="true">刷</span>
+      <div class="brand-text">
+        <h1>客观刷题</h1>
+        <p class="subtitle" id="quizSubtitle">加载中…</p>
+      </div>
+    </div>
+    <nav class="site-nav site-nav-compact" aria-label="站点导航">
+      <a href="index.html" data-page="home">首页</a>
+      <a href="notes.html" data-page="notes">笔记</a>
+      <a href="quiz.html" data-page="quiz">刷题</a>
+      <a href="recall.html" data-page="recall">过题</a>
+    </nav>
+    <button type="button" class="icon-btn" data-theme-toggle aria-label="切换主题">
+      <svg class="icon-sun" width="18" height="18" viewBox="0 0 18 18" fill="none" aria-hidden="true">
+        <circle cx="9" cy="9" r="3.5" stroke="currentColor" stroke-width="1.3"/>
+        <path d="M9 1.5v2M9 14.5v2M1.5 9h2M14.5 9h2" stroke="currentColor" stroke-width="1.3" stroke-linecap="round"/>
+      </svg>
+      <svg class="icon-moon" width="18" height="18" viewBox="0 0 18 18" fill="none" aria-hidden="true">
+        <path d="M14.5 10.2A6 6 0 017.8 3.5 6 6 0 1014.5 10.2z" stroke="currentColor" stroke-width="1.3"/>
+      </svg>
+    </button>
+  </header>
+
+  <main class="quiz-main">
+    <aside class="quiz-panel" id="quizPanel">
+      <h2 class="panel-title">练习设置</h2>
+
+      <label class="field-label">题型</label>
+      <div class="chip-row" id="typeChips">
+        <button type="button" class="chip active" data-type="all">全部</button>
+        <button type="button" class="chip" data-type="single">单选</button>
+        <button type="button" class="chip" data-type="multi">多选</button>
+        <button type="button" class="chip" data-type="judge">判断</button>
+      </div>
+
+      <label class="field-label">题源</label>
+      <select class="field-select" id="sourceFilter">
+        <option value="all">全部题源</option>
+      </select>
+
+      <label class="field-label">章节</label>
+      <select class="field-select" id="chapterFilter">
+        <option value="all">全部章节</option>
+      </select>
+
+      <label class="field-label">模式</label>
+      <div class="chip-row">
+        <button type="button" class="chip active" data-mode="random">随机</button>
+        <button type="button" class="chip" data-mode="seq">顺序</button>
+        <button type="button" class="chip" data-mode="wrong">错题本</button>
+      </div>
+
+      <label class="field-label">题量</label>
+      <select class="field-select" id="countSelect">
+        <option value="10">10 题</option>
+        <option value="20" selected>20 题</option>
+        <option value="50">50 题</option>
+        <option value="all">全部</option>
+      </select>
+
+      <button type="button" class="btn-primary" id="startBtn">开始练习</button>
+      <p class="panel-hint" id="poolHint"></p>
+    </aside>
+
+    <section class="quiz-stage" id="quizStage">
+      <div class="quiz-empty" id="quizEmpty">
+        <p>左侧选好题型和题量，点击「开始练习」。</p>
+        <p class="muted">支持单选、多选、判断；答错自动加入错题本。</p>
+      </div>
+
+      <div class="quiz-session hidden" id="quizSession">
+        <div class="session-head">
+          <div class="session-progress">
+            <span id="progressText">1 / 20</span>
+            <div class="progress-track"><div class="progress-fill" id="progressFill"></div></div>
+          </div>
+          <div class="session-score">正确 <strong id="scoreText">0</strong></div>
+        </div>
+
+        <article class="quiz-card" id="quizCard"></article>
+
+        <div class="quiz-actions" id="quizActions"></div>
+      </div>
+
+      <div class="quiz-result hidden" id="quizResult">
+        <h2>练习完成</h2>
+        <p class="result-score" id="resultScore"></p>
+        <p class="result-detail" id="resultDetail"></p>
+        <div class="result-actions">
+          <button type="button" class="btn-primary" id="retryWrongBtn">只刷错题</button>
+          <button type="button" class="btn-secondary" id="retryBtn">再来一组</button>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <script src="quiz-data.js"></script>
+  <script src="shared.js"></script>
+  <script src="quiz.js"></script>
+</body>
+</html>
